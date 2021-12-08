@@ -133,3 +133,6 @@ dmypy.json
 
 # CatBoost
 catboost_info/
+
+# Submission
+submission.csv
