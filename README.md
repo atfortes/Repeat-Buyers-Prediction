@@ -12,3 +12,9 @@ Armando Fortes & David Pissarra & Gabriele Oliaro
 Merchants sometimes run big promotions on particular dates (e.g., "Black Friday" or "Double 11"), in order to attract a large number of new buyers. Unfortunately, there are many one-time deal hunters, and these promotions may have little long lasting impact on sales. To alleviate this problem, it is important for merchants to identify who can be converted into repeated buyers and focus on targeting on those potential loyal customers.
 
 Accordingly, Tmall.com - a platform for local Chinese and international businesses to sell brand-name goods to consumers in Greater China, owned by Alibaba Group - made their accumulated long term user behaviour logs available and hosted a related Tianchi competition, in order to solve this problem.
+
+## Built With
+
+- XGBoost
+- CatBoost
+- LightGBM
