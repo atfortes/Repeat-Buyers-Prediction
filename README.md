@@ -15,7 +15,7 @@ Accordingly, [Tmall.com](https://www.tmall.com/) - a platform for local Chinese 
 
 Follows the architecture of our best performing solution for the competition:
 
-![arch](/figs/arch_readme.png)
+![arch](/docs/figs/arch_readme.png)
 
 ## Built With
 
