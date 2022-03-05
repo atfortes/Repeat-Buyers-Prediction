@@ -18,3 +18,5 @@ Accordingly, Tmall.com - a platform for local Chinese and international business
 - XGBoost
 - CatBoost
 - LightGBM
+
+Further details on our solution may be found in the [report](https://github.com/atfortes/TMALL-Repeat-Buyers/blob/main/docs/report.pdf).
