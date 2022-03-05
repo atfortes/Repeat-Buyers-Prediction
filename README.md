@@ -1,2 +1,5 @@
 # TMALL-Repeat-Buyers
-This repository regards our final project for the Big Data Intelligence 2021 course @ Tsinghua University
+
+Tianchi Competition top 0.7% solution :trophy: (51st out of 6803 teams)
+
+Big Data Intelligence 2021/2022 @ Tsinghua University, final project
