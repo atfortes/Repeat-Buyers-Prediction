@@ -1,8 +1,8 @@
-# TMALL-Repeat-Buyers
+# Repeat Buyers Prediction - Challenge the Baseline
 
-Tianchi Competition top 0.7% solution :trophy: ([51st](https://tianchi.aliyun.com/competition/entrance/231576/rankingList) out of 6803 teams)
+Tianchi Competition top 0.7% solution :trophy: ([51st](https://tianchi.aliyun.com/competition/entrance/231576/rankingList) out of 6803 teams at the time of submission)
 
-Big Data Intelligence 2021/2022 @ Tsinghua University, final project
+Big Data Intelligence course project @ Tsinghua University
 
 ## Authors
 [Armando Fortes](https://github.com/atfortes) & [David Pissarra](https://github.com/davidpissarra) & [Gabriele Oliaro](https://github.com/gabrieleoliaro)
@@ -17,10 +17,10 @@ Follows the architecture of our best performing solution for the competition:
 
 ![arch](/docs/figs/arch_readme.png)
 
+Further details on our solution can be found in the [report](https://github.com/atfortes/TMALL-Repeat-Buyers/blob/main/docs/report.pdf).
+
 ## Built With
 
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 - [CatBoost](https://catboost.ai/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
-
-Further details on our solution may be found in the [report](https://github.com/atfortes/TMALL-Repeat-Buyers/blob/main/docs/report.pdf).
