@@ -17,7 +17,7 @@ Follows the architecture of our best performing solution for the competition:
 
 ![arch](/docs/figs/arch_readme.png)
 
-Further details on our solution can be found in the [report](https://github.com/atfortes/Repeat-Buyers-Prediction/blob/main/docs/report.pdf).
+Further details on our solution can be found in the [report](https://github.com/atfortes/Repeat-Buyers-Prediction/blob/main/docs/final_report.pdf).
 
 ## Built With
 
